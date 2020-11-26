@@ -9,19 +9,15 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/GoogleTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/GoogleTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/lesson2.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/lesson2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-GoogleTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-lesson2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-lesson2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +64,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QAGURU/lesson3" />
   </component>
-  <component name="RunManager" selected="Gradle.lesson2.successfulFillFormTest">
+  <component name="RunManager" selected="Gradle.lesson2">
     <configuration name="GoogleTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -168,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.lesson2.successfulFillFormTest" />
         <item itemvalue="Gradle.lesson2" />
+        <item itemvalue="Gradle.lesson2.successfulFillFormTest" />
         <item itemvalue="Gradle.GoogleTests" />
         <item itemvalue="Gradle.GoogleTests.modalFormHaveStateAndCity" />
         <item itemvalue="Gradle.GoogleTests.modalFormHaveSubjects" />
@@ -188,26 +184,27 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1605716731856">
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1606141442207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606141442207" />
     <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605716731856" />
-    <state width="1876" height="142" key="GridCell.Tab.0.bottom" timestamp="1605968756383">
+    <state width="1876" height="142" key="GridCell.Tab.0.bottom" timestamp="1605969737181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605968756383" />
-    <state width="1876" height="142" key="GridCell.Tab.0.center" timestamp="1605968756383">
+    <state width="1876" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605969737181" />
+    <state width="1876" height="142" key="GridCell.Tab.0.center" timestamp="1605969737181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605968756383" />
-    <state width="1876" height="142" key="GridCell.Tab.0.left" timestamp="1605968756383">
+    <state width="1876" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605969737181" />
+    <state width="1876" height="142" key="GridCell.Tab.0.left" timestamp="1605969737181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605968756383" />
-    <state width="1876" height="142" key="GridCell.Tab.0.right" timestamp="1605968756383">
+    <state width="1876" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605969737181" />
+    <state width="1876" height="142" key="GridCell.Tab.0.right" timestamp="1605969737181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605968756383" />
+    <state width="1876" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605969737181" />
     <state width="1876" height="344" key="GridCell.Tab.1.bottom" timestamp="1605716518057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
